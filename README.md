@@ -13,14 +13,12 @@
 
 🔗 (https://sam-order-management-system.vercel.app/)
 
----
 
 ## ▶️ Video de demostración
 
 📺 [Ver en YouTube](https://www.youtube.com/watch?v=xxxxxxxxxxx)
 
 
----
 
 ## 🚀 Tecnologías utilizadas
 
@@ -30,7 +28,7 @@
 - **Stripe** – Plataforma de pagos para gestionar transacciones seguras.
 - **Tailwind CSS** – Utilizado para el diseño rápido y responsivo.
 
----
+
 
 ## 📦 Funcionalidades principales
 
@@ -40,7 +38,7 @@
 - Integración con Stripe para pagos.
 - Sistema de roles para usuarios.
 
----
+
 
 ## ⚙️ Instalación y configuración
 
@@ -61,7 +59,7 @@ npx prisma generate
 npm install stripe
 ```
 
----
+
 
 ## ▶️ Ejecutar el proyecto
 
