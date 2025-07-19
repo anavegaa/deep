@@ -22,7 +22,7 @@
 
 ## 🚀 Tecnologías utilizadas
 
-- **Next.js** – Framework React para renderizado SSR y SPA.
+- **Next.js** – Framework React para renderizado.
 - **Prisma** – ORM para el acceso y modelado de datos.
 - **Supabase** – Backend como servicio.
 - **Stripe** – Plataforma de pagos para gestionar transacciones seguras.
